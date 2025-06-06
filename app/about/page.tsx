@@ -12,16 +12,16 @@ export default function AboutPage() {
       </p>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        I’m passionate about learning new technologies, building useful tools, and solving real-world problems. When I’m not coding, I enjoy reading about AI, contributing to open-source, and refining my personal projects.
+        I'm passionate about learning new technologies, building useful tools, and solving real-world problems. When I'm not coding, I enjoy reading about AI, contributing to open-source, and refining my personal projects.
       </p>
 
       <h2 className="text-2xl font-semibold mt-8 mb-2">Tech Stack</h2>
-<ul className="list-disc list-inside text-gray-700 space-y-1">
-  <li>.NET, C#, ASP.NET Core</li>
-  <li>Node.js, Express.js, TypeScript</li>
-  <li>SQL Server, PostgreSQL, MongoDB</li>
-  <li>Docker, Elasticsearch, Git, CI/CD</li>
-</ul>
+      <ul className="list-disc list-inside text-gray-700 space-y-1">
+        <li>.NET, C#, ASP.NET Core</li>
+        <li>Node.js, Express.js, TypeScript</li>
+        <li>SQL Server, PostgreSQL, MongoDB</li>
+        <li>Docker, Elasticsearch, Git, CI/CD</li>
+      </ul>
     </section>
-  );
+  )
 }
